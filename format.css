@@ -1,0 +1,29 @@
+.main-logo {
+    margin: auto;
+    padding: 50px;
+    width: 50%;
+    text-align: center;
+}
+.search-bar{
+    margin: auto;
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+}
+.right-nav{
+    float: left
+}
+.left-nav{
+    float: right;
+}
+.left-footer{
+    position: fixed;
+    margin-top:320px;
+    width:100%;   
+}
+.right-footer{
+    position: fixed;
+    margin-top: 320px;
+    margin-left: 85%;
+}
